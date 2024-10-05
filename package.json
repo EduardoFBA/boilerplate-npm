@@ -1,5 +1,6 @@
 {
 	"author": "Eduardo",
+	"description": "FreeCodeCamp Back End Development and APIs Certification",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"

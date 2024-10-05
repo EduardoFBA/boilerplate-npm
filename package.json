@@ -2,6 +2,7 @@
 	"author": "Eduardo",
 	"description": "FreeCodeCamp Back End Development and APIs Certification",
 	"keywords": ["freecodecamp", "backend", "development", "api", "certification"],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
